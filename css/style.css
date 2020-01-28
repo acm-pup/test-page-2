@@ -13,6 +13,32 @@ body {
   background: #000;
   color: #fff; }
 
+#acm_title_1 {
+  color: #fff;
+  font-weight: 800;
+  font-size: 600%;
+  font-family: helvetica;
+  position: absolute;
+  transform:  translateY(-80%);
+}
+
+#acm_title_2 {
+  color: #fff;
+  font-weight: 800;
+  font-size: 600%;
+  font-family: helvetica;
+  position: absolute;
+}
+
+#acm_title_3 {
+  color: #fff;
+  font-weight: 800;
+  font-size: 600%;
+  font-family: helvetica;
+  position: absolute;
+  transform:  translateY(80%);
+}
+
 a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
